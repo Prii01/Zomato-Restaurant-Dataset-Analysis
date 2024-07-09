@@ -6,4 +6,5 @@ Analyzing the zomato restaurant dataset using python libraries
 <li>Matplotlib</li> 
 <li>Scikit-learn</li> 
 <li>Seaborn</li> 
-<p>Using graphs and charts it's easy to analyze the data and predict the outcome.</p>
+<br><br>
+--Using graphs and charts it's easy to analyze the data and predict the outcome.</p>
